@@ -1,4 +1,4 @@
-“Tim McGraw”
+# “Tim McGraw”
 
 He said the way my blue eyes shined
 Put those Georgia stars to shame that night
@@ -65,7 +65,7 @@ Put those Georgia stars to shame that night
 I said, "That's a lie"
 
 
-"Picture To Burn"
+# "Picture To Burn"
 
 State the obvious, I didn't get my perfect fantasy
 I realize you love yourself more than you could ever love me
@@ -126,7 +126,7 @@ You're just another picture to burn
 Baby, burn...
 
 
-"Teardrops On My Guitar"
+# "Teardrops On My Guitar"
 
 Drew looks at me
 I fake a smile so he won't see
@@ -176,7 +176,7 @@ Drew looks at me
 I fake a smile so he won't see
 
 
-"A Place In This World"
+# "A Place In This World"
 
 I don't know what I want, so don't ask me
 'Cause I'm still trying to figure it out
@@ -213,7 +213,7 @@ Oh I'm just a girl, oh, oh
 Oh I'm just a girl
 
 
-"Cold As You"
+# "Cold As You"
 
 You have a way of coming easily to me
 And when you take, you take the very best of me
@@ -244,7 +244,7 @@ And now that I'm sitting here thinking it through
 I've never been anywhere cold as you
 
 
-"The Outside"
+# "The Outside"
 
 I didn't know what I would find
 When I went looking for a reason
@@ -290,7 +290,7 @@ And I've been a lot of lonely places
 I've never been on the outside
 
 
-"Tied Together With A Smile"
+# "Tied Together With A Smile"
 
 Seems the only one who doesn't see your beauty
 Is the face in the mirror looking back at you
@@ -338,7 +338,7 @@ Goodbye, baby
 With a smile, baby, baby
 
 
-"Stay Beautiful"
+# "Stay Beautiful"
 
 Cory's eyes are like a jungle
 He smiles, it's like the radio
@@ -402,7 +402,7 @@ Stay beautiful
 Na, na, na, na, na
 
 
-"Should've Said No"
+# "Should've Said No"
 
 It's strange to think the songs we used to sing
 The smiles, the flowers, everything is gone
@@ -458,7 +458,7 @@ You shouldn't be begging for forgiveness at my feet...
 You should've said "No", baby, and you might still have me
 
 
-"Mary's Song (Oh My My My)"
+# "Mary's Song (Oh My My My)"
 
 She said, I was seven and you were nine
 I looked at you like the stars that shined
@@ -506,7 +506,7 @@ I'll still look at you like the stars that shine
 In the sky, oh my, my, my
 
 
-"Our Song"
+# "Our Song"
 
 I was riding shotgun
 With my hair undone
@@ -577,7 +577,7 @@ And an old napkin
 And I wrote down our song
 
 
-"I'm Only Me When I'm With You"
+# "I'm Only Me When I'm With You"
 
 Friday night beneath the stars
 In a field behind your yard
@@ -628,7 +628,7 @@ Well, I'm only me when I'm with you
 With you
 
 
-"Invisible"
+# "Invisible"
 
 She can't see the way your eyes
 Light up when you smile
@@ -686,7 +686,7 @@ She can't see the way your eyes
 Light up when you smile
 
 
-"A Perfectly Good Heart"
+# "A Perfectly Good Heart"
 
 Why would you wanna break a perfectly good heart?
 Why would you wanna take our love and tear it all apart, now?
@@ -719,7 +719,7 @@ Why would you wanna break a perfectly good heart?
 
 2007
 
-"Christmases When You Were Mine"
+# "Christmases When You Were Mine"
 
 Please take down the mistletoe
 'Cause I don't wanna think about that right now
@@ -756,7 +756,7 @@ But there were Christmases when I didn't wonder how you are tonight
 You were mine
 
 
-"Christmas Must Be Something More"
+# "Christmas Must Be Something More"
 
 What if ribbons and bows didn't mean a thing?
 Would the song still survive without five golden rings?
@@ -810,7 +810,7 @@ There's gotta be more
 
 2008
 
-"Beautiful Eyes"
+# "Beautiful Eyes"
 
 Your beautiful eyes
 Stare right into my eyes
@@ -851,7 +851,7 @@ Eyes, eyes
 Beautiful eyes
 
 
-"I Heart ?"
+# "I Heart ?"
 
 Wish I had concentrated
 They said love was complicated
@@ -910,7 +910,7 @@ Written on the back of my hand
 
 “Fearless (Taylor’s Version)” (released April 9, 2021) (original version released November 11, 2008)
 
-"Fearless (Taylor's Version)"
+# "Fearless (Taylor's Version)"
 
 There's something 'bout the way
 The street looks when it's just rained
@@ -960,7 +960,7 @@ Oh, oh
 Oh-oh, yeah
 
 
-"Fifteen (Taylor's Version)"
+# "Fifteen (Taylor's Version)"
 
 You take a deep breath and you walk through the doors
 It's the mornin' of your very first day
@@ -1021,7 +1021,7 @@ Take a deep breath, girl
 Take a deep breath as you walk through the doors
 
 
-"Love Story (Taylor's Version)"
+# "Love Story (Taylor's Version)"
 
 We were both young when I first saw you
 I close my eyes and the flashback starts
@@ -1082,7 +1082,7 @@ Oh, oh, oh
 'Cause we were both young when I first saw you
 
 
-"Hey Stephen (Taylor's Version)"
+# "Hey Stephen (Taylor's Version)"
 
 Mmm-mm, mm-mm
 Mmm-mm, mm-mm
@@ -1147,7 +1147,7 @@ Mmm-mm, mm-mm
 Mmm-mm, mm-mm
 
 
-"White Horse (Taylor's Version)"
+# "White Horse (Taylor's Version)"
 
 Say you're sorry, that face of an angel
 Comes out just when you need it to
@@ -1196,7 +1196,7 @@ Try and catch me now, oh
 It's too late to catch me now
 
 
-"You Belong With Me (Taylor's Version)"
+# "You Belong With Me (Taylor's Version)"
 
 You're on the phone with your girlfriend, she's upset
 She's going off about something that you said
@@ -1257,7 +1257,7 @@ You belong with me?
 You belong with me
 
 
-"Breathe (Taylor's Version)"
+# "Breathe (Taylor's Version)"
 (feat. Colbie Caillat)
 
 I see your face in my mind as I drive away
@@ -1311,7 +1311,7 @@ I'm sorry, I'm sorry (Ooh, ooh)
 I'm sorry
 
 
-"Tell Me Why (Taylor's Version)"
+# "Tell Me Why (Taylor's Version)"
 
 I took a chance, I took a shot
 And you might think I'm bulletproof, but I'm not
@@ -1367,7 +1367,7 @@ I told you I'm not bulletproof
 Now you know
 
 
-"You're Not Sorry (Taylor's Version)"
+# "You're Not Sorry (Taylor's Version)"
 
 All this time I was wasting hoping you would come around
 I've been giving out chances every time and all you do is let me down
@@ -1421,7 +1421,7 @@ Woah, oh, oh oh, oh oh oh
 Oh, oh, oh, no, no, no, no, no, no
 
 
-"The Way I Loved You (Taylor's Version)"
+# "The Way I Loved You (Taylor's Version)"
 
 He is sensible and so incredible
 And all my single friends are jealous
@@ -1481,7 +1481,7 @@ Never knew I could feel that much
 And that's the way I loved you
 
 
-"Forever & Always (Taylor's Version)"
+# "Forever & Always (Taylor's Version)"
 
 Once upon a time
 I believe it was a Tuesday when I caught your eye
@@ -1543,7 +1543,7 @@ You didn't mean it baby
 You said, "Forever and always," yeah
 
 
-"The Best Day (Taylor's Version)"
+# "The Best Day (Taylor's Version)"
 
 I'm five years old, it's getting cold, I've got my big coat on
 I hear your laugh and look up smiling at you, I run and run
@@ -1587,7 +1587,7 @@ And I didn't know if you knew, so I'm taking this chance to say
 That I had the best day with you today
 
 
-"Change (Taylor's Version)"
+# "Change (Taylor's Version)"
 
 Well, it's a sad picture, the final blow hits you
 Somebody else gets what you wanted again and
@@ -1633,7 +1633,7 @@ And we'll sing hallelujah, we sang hallelujah
 Hallelujah
 
 
-"Jump Then Fall (Taylor's Version)"
+# "Jump Then Fall (Taylor's Version)"
 
 I like the way you sound in the morning
 We're on the phone and without a warning
@@ -1703,7 +1703,7 @@ You can jump then fall, jump then fall
 Jump then fall into me, into me, yeah
 
 
-"Untouchable (Taylor's Version)"
+# "Untouchable (Taylor's Version)"
 
 Untouchable like a distant diamond sky
 I'm reaching out and I just can't tell you why
@@ -1758,7 +1758,7 @@ It's like a million little stars spelling out your name
 They're spelling out your name, oh
 
 
-"Come In With The Rain (Taylor's Version)"
+# "Come In With The Rain (Taylor's Version)"
 
 I could go back to every laugh
 But I don't wanna go there anymore
@@ -1800,7 +1800,7 @@ I could go back to every laugh
 But I don't wanna go there anymore
 
 
-"Superstar (Taylor's Version)"
+# "Superstar (Taylor's Version)"
 
 This is wrong but I can't help but feel like
 There ain't nothing more right babe
@@ -1846,7 +1846,7 @@ Sweet, sweet superstar
 Superstar
 
 
-"The Other Side Of The Door (Taylor's Version)"
+# "The Other Side Of The Door (Taylor's Version)"
 
 In the heat of the fight I walked away
 Ignorin' words that you were sayin'
@@ -1905,7 +1905,7 @@ After everything and that little black dress
 After everything I must confess, I need you
 
 
-"Today Was A Fairytale (Taylor's Version)"
+# "Today Was A Fairytale (Taylor's Version)"
 
 Today was a fairytale
 You were the prince
@@ -1975,7 +1975,7 @@ Today was a fairytale
 Today was a fairytale
 
 
-"You All Over Me (Taylor's Version) (From The Vault)"
+# "You All Over Me (Taylor's Version) (From The Vault)"
 (feat. Maren Morris)
 
 Once the last drop of rain has dried off the pavement
@@ -2027,7 +2027,7 @@ I've still got you all over me
 Still got you all over me
 
 
-"Mr. Perfectly Fine (Taylor's Version) (From The Vault)"
+# "Mr. Perfectly Fine (Taylor's Version) (From The Vault)"
 
 Mr. "Perfect face"
 Mr. "Here to stay"
@@ -2096,7 +2096,7 @@ Mr. "Looked me in the eye and told me you would never go away"
 You said you'd never go away
 
 
-"We Were Happy (Taylor's Version) (From The Vault)"
+# "We Were Happy (Taylor's Version) (From The Vault)"
 
 We used to walk along the streets
 When the porch lights were shining bright
@@ -2138,7 +2138,7 @@ Oh-oh, oh-oh-oh
 We were happy
 
 
-"That's When (Taylor's Version) (From The Vault)"
+# "That's When (Taylor's Version) (From The Vault)"
 (feat. Keith Urban)
 
 You said, "I know"
@@ -2197,7 +2197,7 @@ That's when, when I see your face
 That's when I love you, that's when
 
 
-"Don't You (Taylor's Version) (From The Vault)"
+# "Don't You (Taylor's Version) (From The Vault)"
 
 Hey, I knew I'd run into you somewhere
 It's been a while, I didn't mean to stare
@@ -2239,7 +2239,7 @@ Ah, ah, ah, ah
 Don't you, ah, ah, ah
 
 
-"Bye Bye Baby (Taylor's Version) (From The Vault)"
+# "Bye Bye Baby (Taylor's Version) (From The Vault)"
 
 It wasn't just like a movie
 The rain didn't soak through my clothes, down to my skin
@@ -2295,7 +2295,7 @@ Bye, bye, baby
 
 2009
 
-"Crazier"
+# "Crazier"
 
 I'd never gone with the wind
 Just let it flow
@@ -2343,7 +2343,7 @@ Crazier, crazier.
 
 “Speak Now (Taylor’s Version)” (released July 7, 2023) (original version released October 25, 2010)
 
-"Mine (Taylor's Version)"
+# "Mine (Taylor's Version)"
 
 Ah-ah, ah-ah
 Ah-ah, ah-ah
@@ -2408,7 +2408,7 @@ Yes, yes, and I can see it (Hold on)
 Yes, yes, I can see it now (See it now, see it now)
 
 
-"Sparks Fly (Taylor's Version)"
+# "Sparks Fly (Taylor's Version)"
 
 The way you move is like a full on rainstorm
 And I'm a house of cards
@@ -2456,7 +2456,7 @@ Oh, baby, smile
 And the sparks fly
 
 
-"Back To December (Taylor's Version)"
+# "Back To December (Taylor's Version)"
 
 I'm so glad you made time to see me
 How's life? Tell me, how's your family?
@@ -2518,7 +2518,7 @@ I go back to December all the time
 All the time
 
 
-"Speak Now (Taylor's Version)"
+# "Speak Now (Taylor's Version)"
 
 I am not the kind of girl
 Who should be rudely bargin' in on a white veil occasion
@@ -2592,7 +2592,7 @@ So glad you were around
 When they said, 'Speak now'"
 
 
-"Dear John (Taylor's Version)"
+# "Dear John (Taylor's Version)"
 
 Long were the nights
 When my days once revolved around you
@@ -2652,7 +2652,7 @@ Don't you think I was too young?
 You shoulda known
 
 
-"Mean (Taylor's Version)"
+# "Mean (Taylor's Version)"
 
 You, with your words like knives
 And swords and weapons that you use against me
@@ -2719,7 +2719,7 @@ And all you're ever gonna be is mean
 Why you gotta be so mean?
 
 
-"The Story Of Us (Taylor's Version)"
+# "The Story Of Us (Taylor's Version)"
 
 I used to think one day we'd tell the story of us
 How we met and the sparks flew instantly
@@ -2790,7 +2790,7 @@ And the story of us looks a lot like a tragedy now
 The end
 
 
-"Never Grow Up (Taylor's Version)"
+# "Never Grow Up (Taylor's Version)"
 
 Your little hand's wrapped around my finger
 And it's so quiet in the world tonight
@@ -2864,7 +2864,7 @@ Oh (Never grow up)
 Just never grow up
 
 
-"Enchanted (Taylor's Version)"
+# "Enchanted (Taylor's Version)"
 
 There I was again tonight
 Forcing laughter, faking smiles
@@ -2933,7 +2933,7 @@ Please, don't be in love with someone else
 Please, don't have somebody waiting on you
 
 
-"Better Than Revenge (Taylor's Version)"
+# "Better Than Revenge (Taylor's Version)"
 
 Now go stand in the corner and think about what you did
 Ha, time for a little revenge
@@ -3002,7 +3002,7 @@ See, you deserve some applause
 She took him faster than you could say "Sabotage"
 
 
-"Innocent (Taylor's Version)"
+# "Innocent (Taylor's Version)"
 
 I guess you really did it this time
 Left yourself in your war path
@@ -3061,7 +3061,7 @@ Lost your balance on a tightrope, oh
 It's never too late to get it back
 
 
-"Haunted (Taylor's Version)"
+# "Haunted (Taylor's Version)"
 
 You and I walk a fragile line
 I have known it all this time
@@ -3124,7 +3124,7 @@ Never ever thought I'd see it break
 Never thought I'd see it
 
 
-"Last Kiss (Taylor's Version)"
+# "Last Kiss (Taylor's Version)"
 
 I still remember the look on your face
 Lit through the darkness at 1:58
@@ -3188,7 +3188,7 @@ Forever the name on my lips
 Just like our last
 
 
-"Long Live (Taylor's Version)"
+# "Long Live (Taylor's Version)"
 
 I said, "Remember this moment"
 In the back of my mind
@@ -3257,7 +3257,7 @@ And bring on all the pretenders
 One day, we will be remembered
 
 
-"Ours (Taylor's Version)"
+# "Ours (Taylor's Version)"
 
 Elevator buttons and morning air
 Strangers' silence makes me want to take the stairs
@@ -3305,7 +3305,7 @@ The stakes are high, the water's rough
 But this love is ours
 
 
-"Superman (Taylor's Version)"
+# "Superman (Taylor's Version)"
 
 Tall, dark, and superman
 He puts papers in his briefcase and drives away
@@ -3371,7 +3371,7 @@ La, la, la, la, la, la
 When you come back down
 
 
-"Electric Touch (Taylor's Version) (From The Vault)"
+# "Electric Touch (Taylor's Version) (From The Vault)"
 (feat. Fall Out Boy)
 
 Just breathe, just relax, it'll be okay
@@ -3417,7 +3417,7 @@ And I want you now, wanna need you forever
 In the heat of your electric touch, mmm
 
 
-"When Emma Falls in Love (Taylor's Version) (From The Vault)"
+# "When Emma Falls in Love (Taylor's Version) (From The Vault)"
 
 When Emma falls in love, she paces the floor
 Closes the blinds and locks the door
@@ -3468,7 +3468,7 @@ And to tell you the truth, sometimes I wish I was her
 Yeah, between me and you, sometimes I wish I was her
 
 
-"I Can See You (Taylor's Version) (From The Vault)"
+# "I Can See You (Taylor's Version) (From The Vault)"
 
 Uh-uh, uh, uh
 
@@ -3533,7 +3533,7 @@ I see you
 Oh, baby
 
 
-"Castles Crumbling (Taylor's Version) (From The Vault)"
+# "Castles Crumbling (Taylor's Version) (From The Vault)"
 (feat. Hayley Williams)
 
 (Once, I had an empire)
@@ -3585,7 +3585,7 @@ You don't wanna know me now, now
 (Once, I had an empire)
 
 
-"Foolish One (Taylor's Version) (From The Vault)"
+# "Foolish One (Taylor's Version) (From The Vault)"
 
 My cards are on the table, yours are in your hand
 Chances are, tonight, you've already got plans
@@ -3658,7 +3658,7 @@ When all is said and done, he just wasn't the one
 No, he just wasn't the one
 
 
-"Timeless (Taylor's Version) (From The Vault)"
+# "Timeless (Taylor's Version) (From The Vault)"
 
 Down the block, there's an antique shop
 And something in my head said, "Stop," so I walked in
@@ -3735,7 +3735,7 @@ Down the block, there's an antique shop
 And somethin' in my head said, "Stop," so I walked in
 
 
-"If This Was A Movie (Taylor's Version)"
+# "If This Was A Movie (Taylor's Version)"
 
 Last night, I heard my own heart beatin'
 Sounded like footsteps on my stairs
@@ -3845,7 +3845,7 @@ Ooh, ooh
 
 2012
 
-"Eyes Open"
+# "Eyes Open"
 
 Everybody's waiting
 Everybody's watching
@@ -3911,7 +3911,7 @@ Keep your ey-eyes open
 
 “Red (Taylor’s Version)” (released November 12, 2021) (original version released October 22, 2012)
 
-"State Of Grace (Taylor's Version)"
+# "State Of Grace (Taylor's Version)"
 
 I'm walking fast through the traffic lights
 Busy streets and busy lives
@@ -3960,7 +3960,7 @@ Love is a ruthless game
 Unless you play it good and right
 
 
-"Red (Taylor's Version)"
+# "Red (Taylor's Version)"
 
 Loving him is like driving a new Maserati down a dead-end street
 Faster than the wind, passionate as sin, ending so suddenly
@@ -4032,7 +4032,7 @@ Comes back to me (Red, red, red; red, red, red), burning red
 His love was like driving a new Maserati down a dead-end street
 
 
-"Treacherous (Taylor's Version)"
+# "Treacherous (Taylor's Version)"
 
 Put your lips close to mine
 As long as they don't touch
@@ -4091,7 +4091,7 @@ This slope is treacherous
 I, I, I like it
 
 
-"I Knew You Were Trouble (Taylor's Version)"
+# "I Knew You Were Trouble (Taylor's Version)"
 
 Once upon a time, a few mistakes ago
 I was in your sights, you got me alone
@@ -4166,7 +4166,7 @@ I knew you were trouble when you walked in
 Trouble, trouble, trouble
 
 
-"All Too Well (Taylor's Version)"
+# "All Too Well (Taylor's Version)"
 
 I walked through the door with you
 The air was cold
@@ -4232,7 +4232,7 @@ Down the stairs, you were there, you remember it all
 It was rare, I was there, I remember it all too well
 
 
-"22 (Taylor's Version)"
+# "22 (Taylor's Version)"
 
 It feels like a perfect night
 To dress up like hipsters
@@ -4315,7 +4315,7 @@ I gotta have you
 I gotta have you
 
 
-"I Almost Do (Taylor's Version)"
+# "I Almost Do (Taylor's Version)"
 
 I bet this time of night you're still up
 I bet you're tired from a long hard week
@@ -4367,7 +4367,7 @@ Looking out at the city and I hope
 Sometimes you wonder 'bout me
 
 
-"We Are Never Ever Getting Back Together (Taylor's Version)"
+# "We Are Never Ever Getting Back Together (Taylor's Version)"
 
 I remember when we broke up the first time
 Saying, "This is it, I've had enough", 'cause like
@@ -4429,7 +4429,7 @@ You go talk to your friends, talk to my friends, talk to me
 But we are never ever ever ever getting back together
 
 
-"Stay Stay Stay (Taylor's Version)"
+# "Stay Stay Stay (Taylor's Version)"
 
 I'm pretty sure we almost broke up last night
 I threw my phone across the room at you
@@ -4485,7 +4485,7 @@ But I think that it's best if we both stay
 That's so fun
 
 
-"The Last Time (Taylor's Version)"
+# "The Last Time (Taylor's Version)"
 (feat. Gary Lightbody)
 
 I find myself at your door
@@ -4556,7 +4556,7 @@ This is the last time I'm asking you, last time I'm asking you
 Last time I'm asking you this
 
 
-"Holy Ground (Taylor's Version)"
+# "Holy Ground (Taylor's Version)"
 
 I was reminiscing just the other day
 While having coffee all alone
@@ -4611,7 +4611,7 @@ But I don't wanna dance
 If I'm not dancing with you
 
 
-"Sad Beautiful Tragic (Taylor's Version)"
+# "Sad Beautiful Tragic (Taylor's Version)"
 
 Long handwritten note, deep in your pocket
 Words, how little they mean, when you're a little too late
@@ -4643,7 +4643,7 @@ We had a beautiful magic love there
 What a sad, beautiful, tragic love affair
 
 
-"The Lucky One (Taylor's Version)"
+# "The Lucky One (Taylor's Version)"
 
 New to town with a made up name
 In the angel's city, chasing fortune and fame
@@ -4695,7 +4695,7 @@ Let me tell you now, you're the lucky one, oh, oh, oh
 Oh, oh, whoa, oh, oh
 
 
-"Everything Has Changed (Taylor's Version)"
+# "Everything Has Changed (Taylor's Version)"
 (feat. Ed Sheeran)
 
 (You good to go?)
@@ -4776,7 +4776,7 @@ All I know since yesterday
 Is everything has changed
 
 
-"Starlight (Taylor's Version)"
+# "Starlight (Taylor's Version)"
 
 I said, "Oh my, what a marvelous tune"
 It was the best night
@@ -4839,7 +4839,7 @@ Don't you see the starlight, starlight? (Ooh, hoo, hoo)
 Don't you dream impossible things?
 
 
-"Begin Again (Taylor's Version)"
+# "Begin Again (Taylor's Version)"
 
 Took a deep breath in the mirror
 He didn't like it when I wore high heels, but I do
@@ -4885,7 +4885,7 @@ But on a Wednesday in a café, I watched it begin again
 But on a Wednesday in a café, I watched it begin again
 
 
-"The Moment I Knew (Taylor's Version)"
+# "The Moment I Knew (Taylor's Version)"
 
 You should've been there
 Should've burst through the door
@@ -4959,7 +4959,7 @@ And I said, "I'm sorry, too"
 And that was the moment I knew
 
 
-"Come Back...Be Here (Taylor's Version)"
+# "Come Back...Be Here (Taylor's Version)"
 
 You said it in a simple way
 4 AM, the second day
@@ -5017,7 +5017,7 @@ Come back, be here
 Come back, be here
 
 
-"Girl At Home (Taylor's Version)"
+# "Girl At Home (Taylor's Version)"
 
 Don't look at me, you got a girl at home
 And everybody knows that, everybody knows that, ah-ah
@@ -5087,7 +5087,7 @@ It would be a fine proposition
 If I hadn't once been just like her
 
 
-"Ronan (Taylor's Version)"
+# "Ronan (Taylor's Version)"
 
 I remember your bare feet, down the hallway
 I remember your little laugh
@@ -5137,7 +5137,7 @@ I remember your bare feet, down the hallway
 I love you to the moon and back
 
 
-"Better Man (Taylor's Version) (From The Vault)"
+# "Better Man (Taylor's Version) (From The Vault)"
 
 I know I'm probably better off on my own
 Than lovin' a man who didn't know what he had when he had it
@@ -5203,7 +5203,7 @@ You would've been the one
 If you were a better man
 
 
-"Nothing New (Taylor's Version) (From The Vault)"
+# "Nothing New (Taylor's Version) (From The Vault)"
 (feat. Phoebe Bridgers)
 
 They tell you while you're young
@@ -5258,7 +5258,7 @@ And will you still want me, will you still want me
 Will you still want me when I'm nothing new?
 
 
-"Babe (Taylor's Version) (From The Vault)"
+# "Babe (Taylor's Version) (From The Vault)"
 
 What about your promises, promises?
 What about your promises, promises, promises? (No)
@@ -5316,7 +5316,7 @@ This is the last time I'll ever call you, babe
 What about your promises, promises?
 
 
-"Message In A Bottle (Taylor's Version) (From The Vault)"
+# "Message In A Bottle (Taylor's Version) (From The Vault)"
 
 I know that you like me
 And it's kinda frightening
@@ -5378,7 +5378,7 @@ My love
 And, now, I'm standing here hoping this gets to you
 
 
-"I Bet You Think About Me (Taylor's Version) (From The Vault)"
+# "I Bet You Think About Me (Taylor's Version) (From The Vault)"
 (feat. Chris Stapleton)
 
 3 AM and I'm still awake, I'll bet you're just fine
@@ -5443,7 +5443,7 @@ I bet you think about me when you say
 I bet you think about me
 
 
-"Forever Winter (Taylor's Version) (From The Vault)"
+# "Forever Winter (Taylor's Version) (From The Vault)"
 
 He says he doesn't believe anything much he hears these days
 He says, "Why fall in love, just so you can watch it go away?"
@@ -5505,7 +5505,7 @@ He says he doesn't believe anything much he hears these days
 I say, "Believe in one thing, I won't go away"
 
 
-"Run (Taylor's Version) (From The Vault)"
+# "Run (Taylor's Version) (From The Vault)"
 (feat. Ed Sheeran)
 
 One, two, three, four
@@ -5566,7 +5566,7 @@ Ooh, we'll run (And we run, and we run, and we run)
 Ooh, and we'll run
 
 
-"The Very First Night (Taylor's Version) (From The Vault)"
+# "The Very First Night (Taylor's Version) (From The Vault)"
 
 I wish I could fly
 I'd pick you up and we'd go back in time
@@ -5628,7 +5628,7 @@ Take me away, take me away
 Take me away to you, to you
 
 
-"All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)"
+# "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)"
 
 I walked through the door with you, the air was cold
 But something 'bout it felt like home somehow
@@ -5755,7 +5755,7 @@ It was rare, you remember it
 
 2013
 
-"Sweeter Than Fiction"
+# "Sweeter Than Fiction"
 
 Hit the ground, hit the ground, hit the ground, oh oh
 Only sound, only sound that you hear is "No"
@@ -5835,7 +5835,7 @@ Sweeter than fiction
 
 “1989 (Taylor’s Version)” (released October 27, 2023) (original version released October 27, 2014)
 
-"Welcome To New York (Taylor’s Version)"
+# "Welcome To New York (Taylor’s Version)"
 
 Walking through a crowd
 The village is aglow
@@ -5932,7 +5932,7 @@ Welcome to New York
 Welcome to New York
 
 
-"Blank Space (Taylor’s Version)"
+# "Blank Space (Taylor’s Version)"
 
 Nice to meet you, where you been?
 I could show you incredible things
@@ -6029,7 +6029,7 @@ But I've got a blank space, baby
 And I'll write your name
 
 
-"Style (Taylor’s Version)"
+# "Style (Taylor’s Version)"
 
 Midnight
 You come and pick me up, no headlights
@@ -6088,7 +6088,7 @@ We come back every time
 We never go out of style
 
 
-"Out Of The Woods (Taylor’s Version)"
+# "Out Of The Woods (Taylor’s Version)"
 
 Looking at it now
 It all seems so simple
@@ -6214,7 +6214,7 @@ Are we in the clear yet?
 In the clear yet? Good
 
 
-"All You Had To Do Was Stay (Taylor’s Version)"
+# "All You Had To Do Was Stay (Taylor’s Version)"
 
 (Hey, hey, hey)
 (Hey, hey, hey)
@@ -6296,7 +6296,7 @@ All you had to do was stay
 All you had to do was stay
 
 
-"Shake It Off (Taylor’s Version)"
+# "Shake It Off (Taylor’s Version)"
 
 I stay out too late
 Got nothing in my brain
@@ -6389,7 +6389,7 @@ I, I, I shake it off, I shake it off,
 I, I, I shake it off, I shake it off
 
 
-"I Wish You Would (Taylor’s Version)"
+# "I Wish You Would (Taylor’s Version)"
 
 It's 2 AM in your car
 Windows down, you pass my street, the memories start
@@ -6474,7 +6474,7 @@ I, I, I, I, I, I wish, I wish
 I, I, I, I, I, I wish, I wish you would
 
 
-"Bad Blood (Taylor’s Version)"
+# "Bad Blood (Taylor’s Version)"
 
 'Cause, baby, now we got bad blood
 You know it used to be mad love
@@ -6555,7 +6555,7 @@ And, baby, now we got bad blood
 Hey
 
 
-"Wildest Dreams (Taylor’s Version)"
+# "Wildest Dreams (Taylor’s Version)"
 
 He said, "Let's get out of this town
 Drive out of this city, away from the crowds"
@@ -6631,7 +6631,7 @@ In your wildest dreams, ah, ha
 In your wildest dreams, ah, ha
 
 
-"How You Get The Girl (Taylor’s Version)"
+# "How You Get The Girl (Taylor’s Version)"
 
 Oh, oh, oh
 Oh, oh, oh
@@ -6705,7 +6705,7 @@ That's how it works
 That's how you got the girl
 
 
-"This Love (Taylor’s Version)"
+# "This Love (Taylor’s Version)"
 
 Clear blue water
 High tide came and brought you in
@@ -6769,7 +6769,7 @@ This love came back to me, oh-oh, oh
 This love, this love came back to me, oh-oh, oh
 
 
-"I Know Places (Taylor’s Version)"
+# "I Know Places (Taylor’s Version)"
 
 (I, I, I, I I, I, I, I I, I, I, I, I, I, I, I)
 
@@ -6829,7 +6829,7 @@ I know places
 (I, I, I, I I, I, I, I I, I, I, I, I, I, I, I)
 
 
-"Clean (Taylor’s Version)"
+# "Clean (Taylor’s Version)"
 
 The drought was the very worst (Oh-oh, oh-oh)
 When the flowers that we'd grown together died of thirst
@@ -6894,7 +6894,7 @@ Oh-oh, oh-oh
 Think I'm finally clean
 
 
-"Wonderland (Taylor’s Version)"
+# "Wonderland (Taylor’s Version)"
 
 Flashing lights and we
 Took a wrong turn and we
@@ -6996,7 +6996,7 @@ And life was never worse but never better
 In wonderland
 
 
-"You Are In Love (Taylor’s Version)"
+# "You Are In Love (Taylor’s Version)"
 
 One look, dark room
 Meant just for you
@@ -7068,7 +7068,7 @@ You are in love, true love
 You are in love
 
 
-"New Romantics (Taylor’s Version)"
+# "New Romantics (Taylor’s Version)"
 
 We're all bored, we're all so tired of everything
 We wait for trains that just aren't coming
@@ -7147,7 +7147,7 @@ Baby, we're the new romantics
 The best people in life are free
 
 
-“”Slut!” (Taylor’s Version) (From the Vault)”
+# "”Slut!” (Taylor’s Version) (From the Vault)"
 
 Flamingo pink, Sunrise Boulevard
 Clink, clink, being this young is art
@@ -7205,7 +7205,7 @@ And if I'm gonna be (Drunk)
 I might as well be drunk in love 
 
 
-“Say Don’t Go (Taylor’s Version) (From the Vault)”
+# "Say Don’t Go (Taylor’s Version) (From the Vault)"
 
 I've known it from the very start
 We're a shot in the darkest dark
@@ -7282,7 +7282,7 @@ But you won't
 But you won't 
 
 
-“Now That We Don’t Talk (Taylor’s Version) (From the Vault)”
+# "Now That We Don’t Talk (Taylor’s Version) (From the Vault)"
 
 You went to a party, I heard from everybody
 You part the crowd like the Red Sea, don't even get me started
@@ -7326,7 +7326,7 @@ Guess this is how it has to be
 Now that we don't talk 
 
 
-“Suburban Legends (Taylor’s Version) (From the Vault)”
+# "Suburban Legends (Taylor’s Version) (From the Vault)"
 
 You had people who called you on unmarked numbers
 In my peripheral vision
@@ -7373,7 +7373,7 @@ You don't knock anymore, and I always knew it
 And my life had been ruined 
 
 
-“Is It Over Now? (Taylor’s Version) (From the Vault)”
+# "Is It Over Now? (Taylor’s Version) (From the Vault)"
 
 Once the flight had flown
 With the wilt of the rose
@@ -7434,7 +7434,7 @@ And say the one thing I've been wanting - but no
 
 2016
 
-"I Don't Wanna Live Forever"
+# "I Don't Wanna Live Forever"
 (ZAYN & Taylor Swift)
 
 Been sittin' eyes wide open behind these four walls, hopin' you'll call
@@ -7504,7 +7504,7 @@ Until you come back home
 
 “reputation” (released November 10, 2017)
 
-"...Ready For It?"
+# "...Ready For It?"
 
 Knew he was a killer first time that I saw him
 Wondered how many girls he had loved and left haunted
@@ -7576,7 +7576,7 @@ Let the games begin
 Are you ready for it?
 
 
-"End Game"
+# "End Game"
 (feat. Ed Sheeran and Future)
 
 I wanna be your end game
@@ -7671,7 +7671,7 @@ I wanna be your A-Team (A-Team)
 I wanna be your end game, end game
 
 
-"I Did Something Bad"
+# "I Did Something Bad"
 
 I never trust a narcissist, but they love me
 So I play 'em like a violin
@@ -7747,7 +7747,7 @@ Why's it feel, why's it feel so good? (bad)
 It just felt so good, good
 
 
-"Don't Blame Me"
+# "Don't Blame Me"
 
 Don't blame me
 Love made me crazy
@@ -7846,7 +7846,7 @@ My drug is my baby
 I'll be using for the rest of my life
 
 
-"Delicate"
+# "Delicate"
 
 This ain't for the best
 My reputation's never been worse, so
@@ -7941,7 +7941,7 @@ Isn't it? Isn't it? Isn't it?
 Delicate
 
 
-"Look What You Made Me Do"
+# "Look What You Made Me Do"
 
 I don't like your little games
 Don't like your tilted stage
@@ -8028,7 +8028,7 @@ Look what you just made me do
 Look what you just made me do
 
 
-"So It Goes..."
+# "So It Goes..."
 
 See you in the dark
 All eyes on you, my magician
@@ -8115,7 +8115,7 @@ Scratches down your back now
 So, so, so it goes
 
 
-"Gorgeous"
+# "Gorgeous"
 
 Gorgeous
 
@@ -8184,7 +8184,7 @@ You are so gorgeous it makes me so mad (Mmh)
 You're gorgeous
 
 
-"Getaway Car"
+# "Getaway Car"
 
 No, nothing good starts in a getaway car
 
@@ -8274,7 +8274,7 @@ I was dying in a getaway car
 Said 'goodbye' in a getaway car
 
 
-"King Of My Heart"
+# "King Of My Heart"
 
 I'm perfectly fine, I live on my own
 I made up my mind, I'm better off being alone
@@ -8347,7 +8347,7 @@ Body and soul, ooh whoa
 And all at once
 
 
-"Dancing With Our Hands Tied"
+# "Dancing With Our Hands Tied"
 
 I, I loved you in secret
 First sight, yeah, we love without reason
@@ -8426,7 +8426,7 @@ But we were dancing
 Hands tied, hands tied (Dancing)
 
 
-"Dress"
+# "Dress"
 
 Our secret moments in a crowded room
 They got no idea about me and you
@@ -8506,7 +8506,7 @@ You made your mark on me, golden tattoo
 Only bought this dress so you could take it off
 
 
-"This Is Why We Can't Have Nice Things"
+# "This Is Why We Can't Have Nice Things"
 
 It was so nice throwing big parties
 Jump into the pool from the balcony
@@ -8569,7 +8569,7 @@ Did you think I wouldn't hear all the things you said about me?
 This is why we can't have nice things
 
 
-"Call It What You Want"
+# "Call It What You Want"
 
 My castle crumbled overnight
 I brought a knife to a gunfight
@@ -8653,7 +8653,7 @@ Call it what you want
 To
 
 
-"New Year's Day"
+# "New Year's Day"
 
 There's glitter on the floor after the party
 Girls carrying their shoes down in the lobby
@@ -8714,7 +8714,7 @@ Whose laugh I could recognize anywhere
 
 “Lover” (released August 23, 2019)
 
-"I Forgot That You Existed"
+# "I Forgot That You Existed"
 
 How many days did I spend thinking
 'Bout how you did me wrong, wrong, wrong?
@@ -8770,7 +8770,7 @@ It isn't love, it isn't hate, it's just indifference
 So, yeah
 
 
-"Cruel Summer"
+# "Cruel Summer"
 
 (Yeah, yeah, yeah, yeah)
 
@@ -8845,7 +8845,7 @@ I love you, ain't that the worst thing you ever heard?"
 (Yeah, yeah, yeah, yeah)
 
 
-"Lover"
+# "Lover"
 
 We could leave the Christmas lights up 'til January
 This is our place, we make the rules
@@ -8891,7 +8891,7 @@ Darling, you're my, my, my, my
 Lover
 
 
-"The Man"
+# "The Man"
 
 I would be complex, I would be cool
 They'd say I played the field before I found someone to commit to
@@ -8951,7 +8951,7 @@ I'd be the man (I'd be the man)
 If I was a man, then I'd be the man
 
 
-"The Archer"
+# "The Archer"
 
 Combat
 I'm ready for combat
@@ -9034,7 +9034,7 @@ Combat
 I'm ready for combat
 
 
-"I Think He Knows"
+# "I Think He Knows"
 
 I think he knows
 His footprints on the sidewalk
@@ -9112,7 +9112,7 @@ I want you, bless my soul
 And I ain't gotta tell him, I think he knows
 
 
-"Miss Americana & The Heartbreak Prince"
+# "Miss Americana & The Heartbreak Prince"
 
 You know I adore you, I'm crazier for you
 Than I was at sixteen, lost in a film scene
@@ -9187,7 +9187,7 @@ They whisper in the hallway, "She's a bad, bad girl"
 "She's a bad, bad girl"
 
 
-"Paper Rings"
+# "Paper Rings"
 
 The moon is high
 Like your friends were the night that we first met
@@ -9264,7 +9264,7 @@ You're the one I want, one I want
 You're the one I want, one I want
 
 
-"Cornelia Street"
+# "Cornelia Street"
 
 We were in the backseat
 Drunk on something stronger than the drinks in the bar
@@ -9325,11 +9325,11 @@ I don't wanna lose you (Hope it never ends)
 I'd never walk Cornelia Street again
 I don't wanna lose you (Yeah)
 
-"I rent a place on Cornelia Street"
+# "I rent a place on Cornelia Street"
 I say casually in the car
 
 
-"Death By A Thousand Cuts"
+# "Death By A Thousand Cuts"
 
 My, my, my, my
 My, my, my, my
@@ -9401,7 +9401,7 @@ I ask the traffic lights if it'll be alright
 They say, "I don't know"
 
 
-"London Boy"
+# "London Boy"
 
 We can go driving in, on my scooter
 Uh, you know, just 'round London
@@ -9470,7 +9470,7 @@ I fancy you (Yeah), I fancy you
 Oh whoa, ah
 
 
-"Soon You'll Get Better"
+# "Soon You'll Get Better"
 (feat. The Chicks)
 
 The buttons of my coat were tangled in my hair
@@ -9527,7 +9527,7 @@ You'll get better soon
 'Cause you have to
 
 
-"False God"
+# "False God"
 
 We were crazy to think
 Crazy to think that this could work
@@ -9586,7 +9586,7 @@ Even if it's a false god
 Still worship this love
 
 
-"You Need To Calm Down"
+# "You Need To Calm Down"
 
 You are somebody that I don't know
 But you're taking shots at me like it's Patrón
@@ -9659,7 +9659,7 @@ Like, can you just not step on our gowns
 You need to calm down"
 
 
-"Afterglow"
+# "Afterglow"
 
 I blew things out of proportion, now you're blue
 Put you in jail for something you didn't do
@@ -9718,7 +9718,7 @@ I need to say, hey, it's all me, just don't go
 Meet me in the afterglow
 
 
-"ME!"
+# "ME!"
 (feat. Brendon Urie of Panic! At The Disco)
 
 I promise that you'll never find another like me
@@ -9811,7 +9811,7 @@ Baby, that's the fun of you
 And I promise that nobody's gonna love you like me-e-e-eh
 
 
-"It's Nice To Have A Friend"
+# "It's Nice To Have A Friend"
 
 Ooh
 Ooh
@@ -9850,7 +9850,7 @@ It's nice to have a friend (Ooh)
 (Ooh)
 
 
-"Daylight"
+# "Daylight"
 
 My love was as cruel as the cities I lived in
 Everyone looked worse in the light
@@ -9919,7 +9919,7 @@ I, I just think that
 You are what you love
 
 
-"All Of The Girls You Loved Before"
+# "All Of The Girls You Loved Before"
 
 When you think of all the late nights
 Lame fights over the phone
@@ -9983,7 +9983,7 @@ But I love you more
 (I love you more)
 
 
-"Beautiful Ghosts"
+# "Beautiful Ghosts"
 
 Follow me home if you dare to
 I wouldn't know where to lead you
@@ -10033,7 +10033,7 @@ And the memories were lost long ago
 So I'll dance with these beautiful ghosts
 
 
-"Christmas Tree Farm"
+# "Christmas Tree Farm"
 
 My winter nights are taken up by static
 Stress, and holiday shopping traffic
@@ -10105,7 +10105,7 @@ May your every wish come true
 
 2020
 
-"Only The Young"
+# "Only The Young"
 
 It keeps me awake
 The look on your face
@@ -10175,7 +10175,7 @@ Only the young
 
 “folklore” (released July 24, 2020)
 
-"the 1"
+# "the 1"
 
 I'm doing good, I'm on some new shit
 Been saying "yes" instead of "no"
@@ -10233,7 +10233,7 @@ But it would've been fun
 If you would've been the one
 
 
-"cardigan"
+# "cardigan"
 
 Vintage tee, brand new phone
 High heels on cobblestones
@@ -10298,7 +10298,7 @@ And when I felt like I was an old cardigan under someone's bed
 You put me on and said I was your favorite
 
 
-"the last great american dynasty"
+# "the last great american dynasty"
 
 Rebekah rode up on the afternoon train, it was sunny
 Her saltbox house on the coast took her mind off St. Louis
@@ -10348,7 +10348,7 @@ A marvelous time
 I had a marvelous time
 
 
-"exile"
+# "exile"
 (feat. Bon Iver)
 
 I can see you standin', honey
@@ -10432,7 +10432,7 @@ You never gave a warning sign
 Ah, ah
 
 
-"my tears ricochet"
+# "my tears ricochet"
 
 We gather here
 We line up weeping in a sunlit room
@@ -10495,7 +10495,7 @@ Wishing I stayed
 Look at how my tears ricochet
 
 
-"mirrorball"
+# "mirrorball"
 
 I want you to know
 I'm a mirrorball
@@ -10552,7 +10552,7 @@ I'll show you every version of yourself
 Tonight
 
 
-"seven"
+# "seven"
 
 Please picture me
 In the trees
@@ -10602,7 +10602,7 @@ Passed down like folk songs
 Our love lasts so long
 
 
-"august"
+# "august"
 
 Salt air
 And the rust on your door
@@ -10686,7 +10686,7 @@ For the hope of it all
 For the hope of it all
 
 
-"this is me trying"
+# "this is me trying"
 
 I've been having a hard time adjusting
 I had the shiniest wheels, now they're rusting
@@ -10733,7 +10733,7 @@ That this is me trying
 At least I'm trying
 
 
-"illicit affairs"
+# "illicit affairs"
 
 Make sure nobody sees you leave
 Hood over your head
@@ -10782,7 +10782,7 @@ For you I would ruin myself
 ...a million little times
 
 
-"invisible string"
+# "invisible string"
 
 Green was the color of the grass where I used to read at Centennial Park
 I used to think I would meet somebody there
@@ -10843,7 +10843,7 @@ Ooh-ooh-ooh-ooh
 (Ah-ah-ah)
 
 
-"mad woman"
+# "mad woman"
 
 What did you think I'd say to that?
 Does a scorpion sting when fighting back?
@@ -10904,7 +10904,7 @@ What a shame she went mad
 You made her like that
 
 
-"epiphany"
+# "epiphany"
 
 Keep your helmet
 Keep your life, son
@@ -10958,7 +10958,7 @@ Just one single glimpse of relief
 To make some sense of what you've seen
 
 
-"betty"
+# "betty"
 
 Betty, I won't make assumptions about why you switched your homeroom
 But I think it's 'cause of me
@@ -11031,7 +11031,7 @@ Kissing in my car again
 Stopped at a streetlight, you know I miss you
 
 
-"peace"
+# "peace"
 
 Our coming-of-age has come and gone
 Suddenly this summer it's clear
@@ -11083,7 +11083,7 @@ Would it be enough
 If I could never give you peace?
 
 
-"hoax"
+# "hoax"
 
 My only one
 My smoking gun
@@ -11137,7 +11137,7 @@ But you
 No other sadness in the world would do
 
 
-"the lakes"
+# "the lakes"
 
 Is it romantic how all my elegies eulogize me?
 I'm not cut out for all these cynical clones
@@ -11176,7 +11176,7 @@ No, not without you
 
 “evermore” (released December 11, 2020)
 
-"willow"
+# "willow"
 
 I'm like the water when your ship rolled in that night
 Rough on the surface but you cut through like a knife
@@ -11243,7 +11243,7 @@ I'm begging for you to take my hand
 Wreck my plans, that's my man
 
 
-"champagne problems"
+# "champagne problems"
 
 You booked the night train for a reason
 So you could sit there in this hurt
@@ -11303,7 +11303,7 @@ You won't remember all my
 Champagne problems
 
 
-"gold rush"
+# "gold rush"
 
 Gleaming
 Twinkling
@@ -11365,7 +11365,7 @@ On waters so inviting
 I almost jump in
 
 
-"'tis the damn season"
+# "'tis the damn season"
 
 If I wanted to know
 Who you were hanging with
@@ -11435,7 +11435,7 @@ And it always leads to you and my hometown
 It always leads to you and my hometown
 
 
-"tolerate it"
+# "tolerate it"
 
 I sit and watch you reading with your head low
 I wake and watch you breathing with your eyes closed
@@ -11485,7 +11485,7 @@ But you tolerate it
 I sit and watch you
 
 
-"no body, no crime"
+# "no body, no crime"
 (feat. HAIM)
 
 He did it
@@ -11550,7 +11550,7 @@ I wasn't letting up until the day he
 Died
 
 
-"happiness"
+# "happiness"
 
 Honey, when I'm above the trees
 I see this for what it is
@@ -11626,7 +11626,7 @@ Leave it all behind
 And there is happiness
 
 
-"dorothea"
+# "dorothea"
 
 Hey Dorothea
 Do you ever stop and think about me?
@@ -11694,7 +11694,7 @@ Ooh-woo-ooh-ooh-ooh, ooh-ooh-ooh
 Dorothea
 
 
-"coney island"
+# "coney island"
 (feat. The National)
 
 Break my soul in two
@@ -11767,7 +11767,7 @@ Making you my
 Making you my centerfold
 
 
-"ivy"
+# "ivy"
 
 How's one to know?
 I'd meet you where the spirit meets the bones
@@ -11845,7 +11845,7 @@ Now I'm covered in you
 In you
 
 
-"cowboy like me"
+# "cowboy like me"
 
 And the tennis court was covered up
 With some tent-like thing
@@ -11919,7 +11919,7 @@ I'm never gonna love again
 I'm never gonna love again
 
 
-"long story short"
+# "long story short"
 
 Fatefully
 I tried to pick my battles
@@ -12000,7 +12000,7 @@ Long story short, it was a bad time
 Long story short, I survived
 
 
-"marjorie"
+# "marjorie"
 
 Never be so kind, you forget to be clever
 Never be so clever, you forget to be kind
@@ -12061,7 +12061,7 @@ I know better
 But you're still around
 
 
-"closure"
+# "closure"
 
 It's been a long time
 And seeing the shape of your name
@@ -12120,7 +12120,7 @@ Your "closure"
 Your "closure"
 
 
-"evermore"
+# "evermore"
 (feat. Bon Iver)
 
 Gray November
@@ -12194,7 +12194,7 @@ This pain wouldn't be for evermore
 Evermore
 
 
-"right where you left me"
+# "right where you left me"
 
 Friends break up, friends get married
 Strangers get born, strangers get buried
@@ -12265,7 +12265,7 @@ You left me no, you left me no
 You left me no choice but to stay here forever
 
 
-"it's time to go"
+# "it's time to go"
 
 When the dinner is cold and the chatter gets old
 You ask for the tab
@@ -12331,7 +12331,7 @@ You just go
 
 2021
 
-"Renegade"
+# "Renegade"
 (Big Red Machine feat. Taylor Swift)
 
 I tapped on your window on your darkest night
@@ -12423,7 +12423,7 @@ Or do you just not want to?
 
 2022
 
-"Carolina"
+# "Carolina"
 
 O Carolina creeks
 Running through my veins
@@ -12487,7 +12487,7 @@ Carolina knows
 
 “Midnights” (released October 21, 2022)
 
-"Lavender Haze"
+# "Lavender Haze"
 
 Meet me at midnight
 Ooh ooh ooh whoa
@@ -12552,7 +12552,7 @@ I just wanna stay
 I just wanna stay in that lavender haze
 
 
-"Maroon"
+# "Maroon"
 
 When the morning came, we
 Were cleaning incense off your
@@ -12616,7 +12616,7 @@ It was maroon
 It was maroon
 
 
-"Anti-Hero"
+# "Anti-Hero"
 
 I have this thing where I get older, but just never wiser
 Midnights become my afternoons
@@ -12674,7 +12674,7 @@ I'll stare directly at the sun, but never in the mirror
 It must be exhausting always rooting for the anti-hero
 
 
-"Snow On The Beach"
+# "Snow On The Beach"
 (feat. Lana Del Rey)
 
 One night a few moons ago
@@ -12747,7 +12747,7 @@ Like snow on the beach
 (Down, it's coming down, it's coming down, it's coming down)
 
 
-"You're On Your Own, Kid"
+# "You're On Your Own, Kid"
 
 Summer went away
 Still the yearning stays
@@ -12806,7 +12806,7 @@ You're on your own, kid
 You always have been
 
 
-"Midnight Rain"
+# "Midnight Rain"
 
 Rain
 He wanted it comfortable
@@ -12879,7 +12879,7 @@ Except on midnights like this
 Midnights like this
 
 
-"Question...?"
+# "Question...?"
 
 (I remember)
 
@@ -12949,7 +12949,7 @@ Do you wish you could still touch her?
 It's just a question
 
 
-"Vigilante Shit"
+# "Vigilante Shit"
 
 Draw the cat eye sharp enough to kill a man
 You did some bad things, but I'm the worst of them
@@ -12997,7 +12997,7 @@ I don't dress for friends
 Lately I've been dressing for revenge
 
 
-"Bejeweled"
+# "Bejeweled"
 
 Baby love, I think I've been a little too kind
 Didn't notice you walking all over my peace of mind
@@ -13080,7 +13080,7 @@ When I walk in the room
 I can still make the whole place shimmer
 
 
-"Labyrinth"
+# "Labyrinth"
 
 It only hurts this much right now
 Was what I was thinking the whole time
@@ -13133,7 +13133,7 @@ How'd you turn it right around?
 (You know how much I hate it)
 
 
-"Karma"
+# "Karma"
 
 You're talking shit for the hell of it
 Addicted to betrayal, but you're relevant
@@ -13206,7 +13206,7 @@ Uh-huh, mm
 Karma's a relaxing thought
 
 
-"Sweet Nothing"
+# "Sweet Nothing"
 
 I spy with my little tired eye
 Tiny as a firefly
@@ -13274,7 +13274,7 @@ All that you ever wanted from me was
 Sweet nothing
 
 
-"Mastermind"
+# "Mastermind"
 
 Once upon a time, the planets and the fates and all the stars aligned
 You and I ended up in the same room at the same time
@@ -13325,7 +13325,7 @@ Yeah, all you did was smile
 'Cause I'm a mastermind
 
 
-"The Great War"
+# "The Great War"
 
 My knuckles were bruised like violets
 Sucker punching walls
@@ -13400,7 +13400,7 @@ Uh-huh
 I vowed I will always be yours
 
 
-"Bigger Than The Whole Sky"
+# "Bigger Than The Whole Sky"
 
 No words appear before me in the aftermath
 Salt streams out my eyes and into my ears
@@ -13448,7 +13448,7 @@ What could've been, would've been
 What should've been you
 
 
-"Paris"
+# "Paris"
 
 "Your ex-friend's sister
 Met someone at a club and he kissed her
@@ -13513,7 +13513,7 @@ My love, we were in Paris
 Yes, we were somewhere else
 
 
-"High Infidelity"
+# "High Infidelity"
 
 Lock broken
 Slur spoken
@@ -13591,7 +13591,7 @@ I didn't know you were keeping count
 But, oh, you were keeping count
 
 
-"Glitch"
+# "Glitch"
 
 We were supposed to be just friends
 You don't live in my part of town but maybe I'll see you out some weekend
@@ -13638,7 +13638,7 @@ It must be counterfeit
 I think there's been a glitch
 
 
-"Would've, Could've, Should've"
+# "Would've, Could've, Should've"
 
 If you would've blinked, then I would've
 Looked away at the first glance
@@ -13726,7 +13726,7 @@ I keep on waiting for a sign
 I regret you all the time
 
 
-"Dear Reader"
+# "Dear Reader"
 
 Dear reader, if it feels like a trap
 You're already in one
@@ -13773,7 +13773,7 @@ Find another, you should find another
 You should find another
 
 
-"Hits Different"
+# "Hits Different"
 
 I washed my hands of us at the club
 You made a mess of me
@@ -13854,7 +13854,7 @@ It hits different (Yeah)
 It hits different 'cause it's you
 
 
-"You're Losing Me (From The Vault)"
+# "You're Losing Me (From The Vault)"
 
 You say, "I don't understand" and I say, "I know you don't"
 We thought a cure would come through in time, now, I fear it won't
@@ -13916,3 +13916,74 @@ You're losing me
 Stop (Stop, stop), you're losing me
 Stop (Stop, stop), you're losing me
 I can't find a pulse, my heart won't start anymore
+
+# "I can do it with a broken hearth"
+
+[Verse 1]
+I can read your mind
+"She's having the time of her life"
+There in her glittering prime
+The lights refract sequin stars off her silhouette every night
+I can show you lies
+(One, two, three, four)
+
+'Cause I'm a real tough kid
+I can handle my shit
+They said, "Babe, you gotta fake it 'til you make it" and I did
+Lights, camera, bitch, smile
+Even when you wanna die
+He said he'd love me all his life
+But that life was too short
+Breaking down, I hit the floor
+All the piеces of me shatterеd as the crowd was chanting, "More"
+I was grinnin' like I'm winnin'
+I was hittin' my marks
+'Cause I can do it with a broken heart
+(One, two, three, four)
+
+I'm so depressed, I act like it's my birthday every day
+I'm so obsessed with him, but he avoids me like the plague
+I cry a lot, but I am so productive, it's an art
+You know you're good when you can even do it with a broken heart
+See Taylor Swift Live
+Get tickets as low as $1,618
+You might also like
+The Alchemy
+Taylor Swift
+I Can Fix Him (No Really I Can)
+Taylor Swift
+The Tortured Poets Department
+Taylor Swift
+[Verse 2]
+I can hold my breath
+I've been doin' it since he left
+I keep finding his things in drawers
+Crucial evidence I didn't imagine the whole thing
+I'm sure I can pass this test
+(One, two, three, four)
+
+'Cause I'm a real tough kid
+I can handle my shit
+They said, "Babe, you gotta fake it 'til you make it" and I did
+Lights, camera, bitch, smile
+In stilettos for miles
+He said he'd love me for all time
+But that time was quite short
+Breaking down, I hit the floor
+All the pieces of me shattered as the crowd was chanting, "More"
+I was grinnin' like I'm winnin'
+I was hittin' my marks
+'Cause I can do it with a broken heart
+(One, two, three, four)
+
+I'm so depressed, I act like it's my birthday every day
+I'm so obsessed with him, but he avoids me (He avoids me), like the plague
+I cry a lot, but I am so productive, it's an art
+You know you're good when you can even do it with a broken heart
+
+You know you're good when you can even do it with a broken heart
+You know you're good
+And I'm good
+'Cause I'm miserable (Haha)
+And nobody even knows
+Ah, try and come for my job
